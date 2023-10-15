@@ -1,0 +1,48 @@
+.image-bag img{
+    width: 90px;
+    height: 90px;
+}
+.head-table{
+    color: #777;
+    font-weight:normal;
+    background-color: #faedcd;
+}
+.divide{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns:3fr 1fr;
+   
+}
+.bag-button{
+    display: flex;
+}
+.bag-button button{
+    color: white;
+    background-color: red;
+}
+.pointer{
+    cursor: pointer;
+}
+.list-group{
+    padding-left: 40px;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    color: #777;
+    
+}
+.a{
+   background-color:#778da9;
+   text-align: center;
+   color: white ;
+   font-size: 19px;
+
+}
+.b{
+   
+    text-align: start;
+    color:#777;
+    font-size: 15px;
+}

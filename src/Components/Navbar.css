@@ -1,0 +1,14 @@
+.social-icon{
+    display: flex;
+   gap: 8px;
+    color:hsl(0, 2%, 57%);
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.social-icon  p{
+    font-size:10px ;
+}
+.social-icon .account .Link{
+ text-decoration: none;
+}
